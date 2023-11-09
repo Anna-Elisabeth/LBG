@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: smelly toes
+        run: echo smelly toes
 
       # Runs a set of commands using the runners shell
       - name: list
